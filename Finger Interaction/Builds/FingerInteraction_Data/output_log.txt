@@ -1,0 +1,52 @@
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1993 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.057 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 1ca4 -> priority: 1 
+<RI.Hid> Failed to get device caps (0xc0110001) for .
+ 
+(Filename:  Line: 96)
+
+Initialize engine version: 5.0.1f1 (5a2e8fe35a68)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 840M (ID=0x1341)
+    Vendor:   NVIDIA
+    VRAM:     1993 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\LeapCSharp.NET3.5.dll (this message is harmless)
+Loading C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\LeapCSharp.NET3.5.dll into Unity Child Domain
+- Completed reload, in  0.054 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Flipe\Documents\Unity\Projects\Thesis\Interaction\Builds\FingerInteraction_Data\Managed\System.Core.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 928 -> priority: 1 
